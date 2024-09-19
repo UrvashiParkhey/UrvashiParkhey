@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Urvashi Parkhey!!](https://github.com/UrvashiParkhey)!!
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Urvashi Parkhey!!](https://github.com/UrvashiParkhey)
 
 </div>
 
@@ -16,7 +16,7 @@
 - 🎓 &nbsp;I'm a student of Shri RGP Gujarati Professional Institute
 - 🌱 &nbsp;I'm currently learning fornt end web development.
 - ❤️ &nbsp;My favorite language: JavaScript.
-- ✉️ &nbsp;You can email me at parkheyurvashi.com.
+- ✉️ &nbsp;You can email me at parkheyurvashi@gmail.com.
 
 <!---
 --->
