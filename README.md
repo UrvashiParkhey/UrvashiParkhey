@@ -13,10 +13,10 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies.
-- 🎓 &nbsp;I'm a student of Shri Vaishnav Vidhyapeeth Vishwadhalaya
-- 🌱 &nbsp;I'm currently learning full stack web development.
+- 🎓 &nbsp;I'm a student of Shri RGP Gujarati Professional Institute
+- 🌱 &nbsp;I'm currently learning fornt end web development.
 - ❤️ &nbsp;My favorite language: JavaScript.
-- ✉️ &nbsp;You can email me at palashgoud607@gmail.com.
+- ✉️ &nbsp;You can email me at parkheyurvashi.com.
 
 <!---
 --->
